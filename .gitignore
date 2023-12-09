@@ -2,7 +2,9 @@
 .virtual_documents
 .DS_Store
 
+temp.ipynb
 results
 data
 models
 
+output.png

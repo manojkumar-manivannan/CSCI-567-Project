@@ -20,15 +20,21 @@ python3 -m venv sal_env
 
 After creating virtual env activate the virtual environment in command prompt using the code below. For using this code you should be in the same directory.
 
-```.\sal_env\Scripts\activate``` 
+```python
+.\sal_env\Scripts\activate
+``` 
 
 if you are using the macos or Linux based system 
 
-```source sal_bin/bin/activate```
+```python
+source sal_bin/bin/activate
+```
 
 Then run this python command to install the requird libraries.
 
-```pip install pandas numpy tqdm deep_translator indic-nlp-library networkx scipy scikit-learn sentence-transformers gensim optuna matplotlib pickle torch transformers```
+```python
+pip install pandas numpy tqdm deep_translator indic-nlp-library networkx scipy scikit-learn sentence-transformers gensim optuna matplotlib pickle torch transformers
+```
 
 ### Execute the file in order
 1. create the folder data and move the downloaded dataset file in the folder. 

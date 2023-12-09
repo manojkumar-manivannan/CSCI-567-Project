@@ -14,7 +14,9 @@ To access the dataset please use @usc.edu account
 This is not mandotary but creating virtual env will make the job cosy. 
 Please create the virtual env in local device 
 
-```python3 -m venv sal_env```
+```python 
+python3 -m venv sal_env
+```
 
 After creating virtual env activate the virtual environment in command prompt using the code below. For using this code you should be in the same directory.
 
